@@ -1,4 +1,4 @@
-# projectFrand
+# projectStophee
 
 Stophee is a transaction and inventory management program, can be used by cashiers and inventory admins.
 User will have to register accounts before using the programs. Features available are determined by account type.
